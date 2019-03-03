@@ -941,6 +941,7 @@ nav a:hover {
   cursor: pointer;
 }
 
+/* Banner Area */
 .banner-area {
   position: relative;
   background: url(../img/banner.png) no-repeat center right/contain;
